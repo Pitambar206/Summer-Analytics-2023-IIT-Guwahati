@@ -7,7 +7,7 @@ An outline of the week-wise graded and ungraded assignments:
 ## Week-1: Introduction to Python & Python Libraries
 The topics under Week-1 included Basic Python Programming, Data Analysis with NumPy and Pandas, Visualizations with Matplotlib and Seaborn, Data Types in Statistics, Measures of Central Tendency, Range, Standard Deviation, Box Plots and Outliers.
 
-##Ungraded Assignments:
+## Ungraded Assignments:
   1: Performing and implementing basic Exploratory Data Analysis functions and techniques on a dataset using Pandas.
  
   2: Performing and implementing basic Exploratory Data Analysis functions and techniques on a dataset using NumPy and Pandas.
