@@ -16,14 +16,14 @@ The topics under Week-1 included Basic Python Programming, Data Analysis with Nu
 Performing and implementing basic Exploratory Data Analysis functions and techniques on a dataset using NumPy, Pandas and Seaborn.
 
 
-*Week-2: Machine Learning Algorithms*
+## Week-2: Machine Learning Algorithms*
 
 Week-2 covered the concepts of Outlier Analysis, Handling Missing Values, introduction to Supervised, Unsupervised and Reinforcement Learning, Linear Regression with One and Multiple Variables with and without Scikit-Learn, and Logistic Regression with and without Scikit-Learn.
 
-Ungraded Assignment:
+## Ungraded Assignment:
 Creating basic Linear and Logistic Regression models and finding the Mean Squared Error and Accuracy score after applying Square Root Transformation on a skewed dataset.
 
-Graded Assignment:
+##Graded Assignment:
 Implementing the Linear Regression algorithm for prediction and computing the Cost Function which is optimised by Gradient Descent.
 
 
